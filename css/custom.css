@@ -43,3 +43,13 @@
 .links-holder:hover {
   text-decoration: underline;
 }
+
+.email-link {
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  color: rgb(52, 52, 195);
+}
+
+.email-link:hover {
+  color: rgb(98, 98, 219);
+}
