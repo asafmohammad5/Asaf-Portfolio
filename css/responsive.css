@@ -189,7 +189,8 @@
 		text-align: center;
 	}
 	#home {
-    width: 599px;  
+		width: 100vw;  
+		height: 100vh;
 	}
 	
 }
